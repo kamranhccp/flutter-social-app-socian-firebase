@@ -7,6 +7,7 @@ A new Flutter Social App Project like Instagram using Firebase
 #### 2. Home Screen
 #### 3. Search View with GridView of Posts
 #### 4. Profile Screen
+#### 5. Comment Screen
 
 
 ## Screenshots
@@ -27,3 +28,5 @@ A new Flutter Social App Project like Instagram using Firebase
 #### 8. Every user has their specific Posts
 #### 9. Follow or Unfollow a User
 #### 10. Account/Profile Page with Posts and Details about me
+#### 11. Comment Screen with Comment from user with username and profile image
+#### 12. Chat Screen(Coming Soon)
