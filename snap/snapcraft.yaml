@@ -1,0 +1,28 @@
+name: social-app-socian
+version: 0.1.0
+summary: Social App
+description: Social App for Socian
+
+confinement: strict
+base: core18
+grade: stable
+
+slots:
+  dbus-super-cool-app: # adjust accordingly to your app name
+    interface: dbus
+    bus: session
+    name: org.bar.super_cool_app # adjust accordingly to your app name and
+
+apps:
+  super-cool-app:
+    command: social-app-socian
+    extensions: [ flutter-master ] # Where "master" defines which Flutter channel to use for the build
+    plugs:
+      - network
+    slots:
+      - dbus-social-app-socian
+parts:
+  super-cool-app:
+    source: .
+    plugin: flutter
+    flutter-target: lib/main.dart # The main entry-point file of the application

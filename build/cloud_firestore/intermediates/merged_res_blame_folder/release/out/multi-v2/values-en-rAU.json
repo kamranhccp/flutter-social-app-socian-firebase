@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kamranhccp/StudioProjects/social_app_socian/build/cloud_firestore/intermediates/merged_res/release/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/kamranhccp/StudioProjects/social_app_socian/build/cloud_firestore/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

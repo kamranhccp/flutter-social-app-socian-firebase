@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/d7b1a236f075d23e05f0d520ae1d149d/transformed/browser-1.4.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                },
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/d7b1a236f075d23e05f0d520ae1d149d/transformed/browser-1.4.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                },
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                }
+            ]
+        }
+    ]
+}

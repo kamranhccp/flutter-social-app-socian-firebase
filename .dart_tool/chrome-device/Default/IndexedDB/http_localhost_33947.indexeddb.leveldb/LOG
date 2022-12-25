@@ -1,0 +1,13 @@
+2022/09/01-21:43:04.067 2dc2f Reusing MANIFEST /tmp/flutter_tools.PTTWDG/flutter_tools_chrome_device.TIYTOK/Default/IndexedDB/http_localhost_33947.indexeddb.leveldb/MANIFEST-000001
+2022/09/01-21:43:04.067 2dc2f Recovering log #10
+2022/09/01-21:43:04.067 2dc2f Reusing old log /tmp/flutter_tools.PTTWDG/flutter_tools_chrome_device.TIYTOK/Default/IndexedDB/http_localhost_33947.indexeddb.leveldb/000010.log 
+2022/09/01-21:43:04.396 2dc34 Level-0 table #15: started
+2022/09/01-21:43:04.401 2dc34 Level-0 table #15: 3656 bytes OK
+2022/09/01-21:43:04.413 2dc34 Delete type=0 #10
+2022/09/01-21:43:04.413 2dc34 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/01-21:43:42.820 2dc2f Compacting 1@1 + 1@2 files
+2022/09/01-21:43:42.835 2dc2f Generated table #16@1: 42 keys, 2920 bytes
+2022/09/01-21:43:42.835 2dc2f Compacted 1@1 + 1@2 files => 2920 bytes
+2022/09/01-21:43:42.843 2dc2f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/01-21:43:42.845 2dc2f Delete type=2 #12
+2022/09/01-21:43:42.845 2dc2f Delete type=2 #15

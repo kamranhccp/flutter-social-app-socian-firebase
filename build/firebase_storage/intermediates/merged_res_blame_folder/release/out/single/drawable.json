@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_storage/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/87969bd0453e210abd7b5ff2e0494bf4/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    }
+]

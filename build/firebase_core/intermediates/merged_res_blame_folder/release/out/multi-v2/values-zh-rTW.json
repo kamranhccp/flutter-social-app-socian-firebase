@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_core/intermediates/merged_res/release/values-zh-rTW/values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "158",
+                        "endColumns": "100",
+                        "endOffsets": "254"
+                    }
+                },
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/3adf16f0fb5498a9a1c4c9988ca13bb3/transformed/jetified-play-services-basement-18.0.0/res/values-zh-rTW/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "98",
+                        "endOffsets": "297"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "158",
+                        "endColumns": "100",
+                        "endOffsets": "254"
+                    }
+                },
+                {
+                    "source": "/home/kamranhccp/.gradle/caches/transforms-3/3adf16f0fb5498a9a1c4c9988ca13bb3/transformed/jetified-play-services-basement-18.0.0/res/values-zh-rTW/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "98",
+                        "endOffsets": "297"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    }
+                }
+            ]
+        }
+    ]
+}

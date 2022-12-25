@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/13a64fc31c8dbdb71b64e36b523d19b5/transformed/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/13a64fc31c8dbdb71b64e36b523d19b5/transformed/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/13a64fc31c8dbdb71b64e36b523d19b5/transformed/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

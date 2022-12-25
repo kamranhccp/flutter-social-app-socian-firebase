@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_core/intermediates/merged_res/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_core/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_core/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_core/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_core/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

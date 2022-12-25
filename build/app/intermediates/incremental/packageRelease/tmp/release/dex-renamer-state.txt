@@ -1,0 +1,4 @@
+#Mon Sep 12 23:57:03 PKT 2022
+base.0=/home/kamranhccp/StudioProjects/social_app_socian/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

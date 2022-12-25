@@ -1,0 +1,14 @@
+2022/09/02-05:19:17.647 3dd6b Reusing MANIFEST /tmp/flutter_tools.QOYLSP/flutter_tools_chrome_device.RUTDGO/Default/IndexedDB/http_localhost_42467.indexeddb.leveldb/MANIFEST-000001
+2022/09/02-05:19:17.647 3dd6b Recovering log #10
+2022/09/02-05:19:17.647 3dd6b Reusing old log /tmp/flutter_tools.QOYLSP/flutter_tools_chrome_device.RUTDGO/Default/IndexedDB/http_localhost_42467.indexeddb.leveldb/000010.log 
+2022/09/02-05:19:17.647 3dd6b Delete type=2 #8
+2022/09/02-05:19:18.040 3dd6e Level-0 table #15: started
+2022/09/02-05:19:18.045 3dd6e Level-0 table #15: 5833 bytes OK
+2022/09/02-05:19:18.052 3dd6e Delete type=0 #10
+2022/09/02-05:19:18.055 3dd6e Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 271 : 1
+2022/09/02-05:19:18.055 3dd6e Compacting 1@0 + 1@1 files
+2022/09/02-05:19:18.060 3dd6e Generated table #16@0: 75 keys, 3313 bytes
+2022/09/02-05:19:18.060 3dd6e Compacted 1@0 + 1@1 files => 3313 bytes
+2022/09/02-05:19:18.067 3dd6e compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/02-05:19:18.067 3dd6e Delete type=2 #15
+2022/09/02-05:19:18.067 3dd6e Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 271 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

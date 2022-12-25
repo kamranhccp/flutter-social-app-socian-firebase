@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/social_app_socian.iml" filepath="$PROJECT_DIR$/social_app_socian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/social_app_socian_android.iml" filepath="$PROJECT_DIR$/android/social_app_socian_android.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kamranhccp/StudioProjects/social_app_socian/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/home/kamranhccp/.gradle/caches/transforms-3/f569f3e2297aee542ca4b3efad3c2d0c/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]

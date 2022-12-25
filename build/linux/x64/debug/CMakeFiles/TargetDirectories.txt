@@ -1,0 +1,14 @@
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/CMakeFiles/social_app_socian.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/CMakeFiles/install.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/kamranhccp/StudioProjects/social_app_socian/build/linux/x64/debug/flutter/CMakeFiles/install.dir
